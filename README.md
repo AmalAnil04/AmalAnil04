@@ -49,7 +49,7 @@
 <p>
   💼 <a href="https://www.linkedin.com/in/amal-anil-8a1183267/">LinkedIn</a>
   &nbsp; | &nbsp;
-  🌐 <a href="https://AmalAnil04.github.io/AMAL-portfolio/">Portfolio Website</a>
+  🌐 <a href="https://amal-portfolio-eight.vercel.app/">Portfolio Website</a>
 </p>
 
 <hr>
